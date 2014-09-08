@@ -3,3 +3,5 @@ This code is a data access layer project (Zza.Data) and compatible entity defint
 To create the database, open SQL Management Studio and create a new database named Zza. Then open the enclosed ZzaDatabaseGen.sql file and execute it. It will provision the tables and sample data of the Zza database. 
 
 The enclosed Zza.Data and Zza.Entities projects can then be added to a solution that wants to work with the Zza data, such as the solution developed throughout my WCF Jumpstart course (http://pluralsight.com/training/courses/TableOfContents?courseName=wcf-jumpstart).
+
+Additionally, the solution includes the WPF client application used in the course since XAML coding is not covered in the course.

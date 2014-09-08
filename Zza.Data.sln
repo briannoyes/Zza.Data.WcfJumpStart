@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{463D23
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zza.Entities", "Zza.Entities\Zza.Entities.csproj", "{7EC71C6E-E769-4C9E-8327-C72B0724B1B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zza.Client", "Zza.Client\Zza.Client.csproj", "{887BE132-9722-469D-A4FB-2DE6ECE8C10A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +30,10 @@ Global
 		{7EC71C6E-E769-4C9E-8327-C72B0724B1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EC71C6E-E769-4C9E-8327-C72B0724B1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EC71C6E-E769-4C9E-8327-C72B0724B1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887BE132-9722-469D-A4FB-2DE6ECE8C10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887BE132-9722-469D-A4FB-2DE6ECE8C10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887BE132-9722-469D-A4FB-2DE6ECE8C10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887BE132-9722-469D-A4FB-2DE6ECE8C10A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
